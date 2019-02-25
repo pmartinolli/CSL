@@ -4,9 +4,9 @@ Style privilégié par le Département de démographie de l'Université de Montr
 
 ## Comment l'installer ?
 
-1. Télécharger [cah-qc-demo.csl](https://github.com/pmartinolli/CSL/blob/master/cqd/cah-qc-demo.csl)
+1. Télécharger [cah-qc-demo.csl](https://github.com/pmartinolli/CSL/blob/master/cqd/cah-qc-demo.csl). Cliquer sur RAW puis enregistrer la page sous.
 
-2. Le fichier doit être enregistré avec l'extension .csl
+2. Le fichier doit être enregistré avec l'extension .csl 
 
 3. Dans Zotero, appuyer sur l'icône représentant une roue dentée
 
