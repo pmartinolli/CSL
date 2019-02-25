@@ -4,7 +4,11 @@ Style privilégié par le Département de démographie de l'Université de Montr
 
 ## Comment l'installer ?
 
-1. Télécharger [cah-qc-demo.csl](https://github.com/pmartinolli/CSL/blob/master/cqd/cah-qc-demo.csl). Cliquer sur RAW puis enregistrer la page sous.
+1. Télécharger [cah-qc-demo.csl](https://github.com/pmartinolli/CSL/blob/master/cqd/cah-qc-demo.csl)
+
+   * clic-droit sur le lien puis Enregistrer le lien sous...
+   
+   * ou cliquer sur le lien puis sur RAW sur la page suivante puis Enregistrer la page sous...
 
 2. Le fichier doit être enregistré avec l'extension .csl 
 
