@@ -4,7 +4,7 @@ Style privilégié par le Département de démographie de l'Université de Montr
 
 ## Comment l'installer ?
 
-1. Télécharger [cah-qc-demo.csl](https://github.com/pmartinolli/CSL/blob/master/cqd/cahiers-quebecois-de-demographie.csl)
+1. Télécharger [cahiers-quebecois-de-demographie.csl](https://github.com/pmartinolli/CSL/blob/master/cqd/cahiers-quebecois-de-demographie.csl)
 
    * clic-droit sur le lien puis Enregistrer le lien sous...
    
