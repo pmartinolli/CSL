@@ -35,7 +35,7 @@ Style privilégié par le Département de démographie de l'Université de Montr
 * [Cahiers québécois de démographie](https://cqd.erudit.org). ISSN: 0380-1721. eISSN: 1705-1495
 
 
-### Ce qui a été modifié 
+### Ce qui a été modifié du style original
 
 #### De manière générale
 
@@ -51,6 +51,8 @@ Style privilégié par le Département de démographie de l'Université de Montr
 
 * pas de mention de label pour volume (vol.) ni de numéro (no.)
 
+* ordre des informations selon le type de document (voir ci-dessous)
+
 #### De manière spécifique
 
 Nom1, P., P. NOM2 et P. NOM3. 2000. *Titre du livre*, Paris. Gallimard, 100 p.
@@ -59,7 +61,7 @@ NOM1, P. 2000. « Titre du chapitre », dans P. NOM2 et P. NOM3 (dir.), *Titre d
 
 NOM1, P., P. NOM2 et P. NOM3. 2000. « Titre de l'article scientifique », *Nom de la revue*, 10, 3 : 229-248.
 
-NOM1, P. et P. NOM2. 2000. « Titre du papier de conférence », *Nom du colloque*, Ville.
+NOM1, P. et P. NOM2. 2000. « Titre de la présentation », *Nom du colloque*, Lieu.
 
 NOM, P. 2000. « Titre de la thèse », (Thèse de doctorat), Université, Lieu. 
 
@@ -71,9 +73,7 @@ NOM, P. 2000. *Titre de la publication gouvernementale*, No du rapport, Maison d
 
 NOM DE L’INSTITUTION. 2000. *Titre du projet de loi*, numéro de session, numéro de législature.
 
-NOM, P. 2000. « Type de document générique ». Disponible à la page : www.aaa.org
+NOM, P. 2000. « Type de document générique ». Disponible à la page : www.siteweb.org
 
 NOM, P. 2000. Titre de la page Web. Disponible à la page : www.siteweb.com
-
-NOM, P. 2000. « Titre du billet de blogue ». Disponible à la page : https://jdr.hypotheses.org/698
 
