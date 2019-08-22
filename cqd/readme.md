@@ -22,20 +22,10 @@ Style privilégié par le Département de démographie de l'Université de Montr
 
 
 
-## Métadonnées 
-
-* Style basé sur le style *Genèses : Sciences sociales et histoire (auteur date)* conçu par Franziska Heimburger.
-
-* Modfications et adaptation : Pascal Martinolli, Dominic Gagnon
-
-* Dernière modification : 2019
-
-* License : [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/)
-
-* [Cahiers québécois de démographie](https://cqd.erudit.org). ISSN: 0380-1721. eISSN: 1705-1495
 
 
-### Ce qui a été modifié du style original
+
+## Ce qui a été modifié du style original
 
 #### De manière générale
 
@@ -77,3 +67,15 @@ NOM, P. 2000. « Type de document générique ». Disponible à la page : www.si
 
 NOM, P. 2000. Titre de la page web. Disponible à la page : www.siteweb.com
 
+
+## Métadonnées 
+
+* Style basé sur le style *Genèses : Sciences sociales et histoire (auteur date)* conçu par Franziska Heimburger.
+
+* Modfications et adaptation : Pascal Martinolli, Dominic Gagnon
+
+* Dernière modification : 2019
+
+* License : [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+
+* [Cahiers québécois de démographie](https://cqd.erudit.org). ISSN: 0380-1721. eISSN: 1705-1495
