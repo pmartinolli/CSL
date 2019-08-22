@@ -75,5 +75,5 @@ NOM DE L’INSTITUTION. 2000. *Titre du projet de loi*, numéro de session, num�
 
 NOM, P. 2000. « Type de document générique ». Disponible à la page : www.siteweb.org
 
-NOM, P. 2000. Titre de la page Web. Disponible à la page : www.siteweb.com
+NOM, P. 2000. Titre de la page web. Disponible à la page : www.siteweb.com
 
