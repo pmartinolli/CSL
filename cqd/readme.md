@@ -61,15 +61,15 @@ NOM1, P. 2000. « Titre du chapitre », dans P. NOM2 et P. NOM3 (dir.), *Titre d
 
 NOM1, P., P. NOM2 et P. NOM3. 2000. « Titre de l'article scientifique », *Nom de la revue*, 10, 3 : 229-248.
 
-NOM1, P. et P. NOM2. 2000. « Titre de la présentation », *Nom du colloque*, Lieu.
+NOM1, P. et P. NOM2. 2000. « Titre de la présentation », *Nom du colloque*, lieu.
 
-NOM, P. 2000. « Titre de la thèse », (Thèse de doctorat), Université, Lieu. 
+NOM, P. 2000. « Titre de la thèse », (Thèse de doctorat), université, lieu. 
 
 NOM, P. 2000. « Titre de l’article de quotidien », *Nom du journal*. 
 
 NOM, P. 2000. « Titre de l’article de magazine », *Nom du magazine*, volume, numéro. 
 
-NOM, P. 2000. *Titre de la publication gouvernementale*, No du rapport, Maison d’édition, Lieu. 
+NOM DE L’INSTITUTION. 2000. *Titre de la publication gouvernementale*, numéro du rapport, maison d’édition, lieu. 
 
 NOM DE L’INSTITUTION. 2000. *Titre du projet de loi*, numéro de session, numéro de législature.
 
