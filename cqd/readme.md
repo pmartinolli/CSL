@@ -30,7 +30,7 @@ Style privilégié par le Département de démographie de l'Université de Montr
 
 * Dernière modification : 2019
 
-* License : [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/
+* License : [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 
 * [Cahiers québécois de démographie](https://cqd.erudit.org). ISSN: 0380-1721. eISSN: 1705-1495
 
